@@ -70,7 +70,13 @@ Due to the strange behaviour in year sold,we subtract each feature with year sol
 
 # Learning Outcomes of the Study in respect of Data Science
 
-• From this dataset I have learned in most of every case tree base model always work very well • I was facing the lack of data problem in this problem because the dataset was very less but I build my model at the end • I was also facing the multicollinearity problem because I was having many columns so there were two columns which where highly correlated to each other more then 90% so I dropped one of them • And the above study helped us to understand how the price change across the properties like with more rooms, with big pool and all.
+• From this dataset I have learned in most of every case tree base model always work very well 
+
+• I was facing the lack of data problem in this problem because the dataset was very less but I build my model at the end 
+
+• I was also facing the multicollinearity problem because I was having many columns so there were two columns which where highly correlated to each other more then 90% so I dropped one of them 
+
+• And the above study helped us to understand how the price change across the properties like with more rooms, with big pool and all.
 
 # Limitations of this work and Scope for Future Work
 

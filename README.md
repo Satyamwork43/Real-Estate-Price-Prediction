@@ -67,3 +67,15 @@ Due to the strange behaviour in year sold,we subtract each feature with year sol
 # Finally i trained many model but lightgbm was giving me good accuracy from all of them so here is the final learning curve and metrics
 
 ![image](https://user-images.githubusercontent.com/78307104/132952610-f082d1b2-d21b-484b-863c-aa8e5544bb9c.png)
+
+# Learning Outcomes of the Study in respect of Data Science
+
+• From this dataset I have learned in most of every case tree base model always work very well • I was facing the lack of data problem in this problem because the dataset was very less but I build my model at the end • I was also facing the multicollinearity problem because I was having many columns so there were two columns which where highly correlated to each other more then 90% so I dropped one of them • And the above study helped us to understand how the price change across the properties like with more rooms, with big pool and all.
+
+# Limitations of this work and Scope for Future Work
+
+• The limitation of this work is we can only use to predict the price of houses we can’t use to somewhere else
+
+• And for future work I can say many companies can get more profit by using this model.
+
+• If a builder wants to build a new building or something he can choose the property according with the help of this model where he can understand what type of property people usually buy at which prices what more things, he needs to add to get a good amount of profit.
